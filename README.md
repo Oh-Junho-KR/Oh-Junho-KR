@@ -35,13 +35,14 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 	<img src="https://img.shields.io/badge/mssql-A566FF?style=for-the-badge&logo=MsSQL&logoColor=white">
 	<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+	<img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 	<br/>
 	<br/>
 	<h3> 🔨 Tool 🔨 </h3>
 	<img src="https://img.shields.io/badge/.NET Framework-512BD4?style=for-the-badge&logo=.NET&logoColor=white">
 	<img src="https://img.shields.io/badge/ASP.NET-990085?style=for-the-badge&logo=ASP.NET&logoColor=white">
-	<img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
-	<img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
+	<img src="https://img.shields.io/badge/-Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
 	<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white">
 	<br/>
 	<br/>
