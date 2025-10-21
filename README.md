@@ -20,35 +20,31 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<h3> ✨ Tech ✨ </h3>
-	<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-	<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=white">
-	<img src="https://img.shields.io/badge/C Sharp-99CC00?style=for-the-badge&logo=Sharp&logoColor=white">
-	<img src="https://img.shields.io/badge/java-FFBB00?style=for-the-badge&logo=Java&logoColor=white">
-	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+	<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-C Sharp-073551?style=flat&logo=curl&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Java-CC0000?style=flat&logo=jabber&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 	<br/>
-	<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-	<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-	<img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=Android&logoColor=white">
+	<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Android-34A853?style=flat&logo=android&logoColor=white"/>
 	<br/>
 	<br/>
 	<h3> 📠 DBMS 📠 </h3>
-	<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-	<img src="https://img.shields.io/badge/mssql-A566FF?style=for-the-badge&logo=MsSQL&logoColor=white">
-	<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+	<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-MsSQL-F7901E?style=flat&logo=boost&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-DB2-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
 	<br/>
 	<br/>
 	<h3> 🔨 Tool 🔨 </h3>
-	<img src="https://img.shields.io/badge/.NET Framework-512BD4?style=for-the-badge&logo=.NET&logoColor=white">
-	<img src="https://img.shields.io/badge/ASP.NET-990085?style=for-the-badge&logo=ASP.NET&logoColor=white">
+	<img src="https://img.shields.io/badge/-.NET Framework-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-ASP.NET-FF7200?style=flat&logo=devexpress&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
-	<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white">
-	<br/>
-	<br/>
-	<h3> 📖 Studying.. 📖 </h3>
-  	<img src="https://img.shields.io/badge/react-4479A1?style=for-the-badge&logo=React&logoColor=white">
-	<img src="https://img.shields.io/badge/spring-3DDC84?style=for-the-badge&logo=Spring&logoColor=white">
+	<img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"/>
 	<br/>
 	<br/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-Junho-KR&layout=compact">
