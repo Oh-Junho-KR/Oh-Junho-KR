@@ -47,6 +47,12 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"/>
 	<br/>
 	<br/>
+	<h3> 💻 Development Experience 💻 </h3>
+	<h5>2018.05 ~ 2021.09 : Twim</h5><p>Ai Vision 솔루션 및 검사 소프트웨어 개발 (C#, Winform, Python, Tensorflow)</p><br/>
+    <h5>2022.03 ~ 2024.11 : 낙스넷</h5><p>LG화학 MES(IMS) 시스템 개발 (C#, ASP.NET, HTML5, MsSQL)</p><br/>
+	<h5>2025.03 ~ 재직 중 : 밀리언웨어</h5><p>Sk Hynix, SmartYES 시스템 Oracle 전환 (C#, Java, Oracle)</p><br/>
+	<br/>
+	<br/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-Junho-KR&layout=compact">
 	<br/>
 	<br/>
