@@ -48,9 +48,10 @@ Here are some ideas to get you started:
 	<br/>
 	<br/>
 	<h3> 💻 Development Experience 💻 </h3>
-	<h5>2018.05 ~ 2021.09 : Twim</h5><p>Ai Vision 솔루션 및 검사 소프트웨어 개발 (C#, Winform, Python, Tensorflow)</p><br/>
-    <h5>2022.03 ~ 2024.11 : 낙스넷</h5><p>LG화학 MES(IMS) 시스템 개발 (C#, ASP.NET, HTML5, MsSQL)</p><br/>
-	<h5>2025.03 ~ 재직 중 : 밀리언웨어</h5><p>Sk Hynix, SmartYES 시스템 Oracle 전환 (C#, Java, Oracle)</p><br/>
+	<h5>2018.05.08 ~ 2021.09.28 : Twim</h5><p>Ai Vision 학습/검사 솔루션 및 검사 소프트웨어 개발 (C#, Winform, Python, Tensorflow)</p><br/>
+    <h5>2022.03.14 ~ 2024.11.30 : 낙스넷</h5><p>LG화학 MES(IMS) 웹 시스템 개발 (C#, ASP.NET, HTML5, JavaScript, MsSQL)</p><br/>
+	<h5>2025.03.10 ~ 재직 중 : 밀리언웨어</h5><p>Sk Hynix, SmartYES 시스템 Oracle 전환 (C#, Java, Oracle)</p><br/>
+	<h5>2025.11.03 ~ 2026.07.31(종료 예정) : 낙스넷</h5><p>DN솔루션즈 MES 웹 시스템 개발 (React, HTML5, JavaScript, MsSQL)</p><br/>
 	<br/>
 	<br/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-Junho-KR&layout=compact">
